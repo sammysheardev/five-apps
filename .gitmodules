@@ -1,0 +1,15 @@
+[submodule "react"]
+	path = react
+	url = git@github.com:jackmaster110/five-apps-react.git
+[submodule "vue"]
+	path = vue
+	url = git@github.com:jackmaster110/five-apps-vue.git
+[submodule "svelte"]
+	path = svelte
+	url = git@github.com:jackmaster110/five-apps-svelte.git
+[submodule "angular"]
+	path = angular
+	url = git@github.com:jackmaster110/five-apps-angular.git
+[submodule "vanilla"]
+	path = vanilla
+	url = git@github.com:jackmaster110/five-apps-vanilla.git
